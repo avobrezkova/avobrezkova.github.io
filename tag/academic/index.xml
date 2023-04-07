@@ -5,12 +5,49 @@
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://example.com/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Last_week 27.03-02.04</title>
+      <link>https://example.com/post/2-week/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2-week/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;my-last-week&#34;&gt;My last week&lt;/h2&gt;
+&lt;p&gt;I had a wonderful time last week doing lots of tasks and work. This included lab work, programming, and creating reports, presentations, and papers. In addition, I was able to relax this weekend outside in the nice weather.&lt;/p&gt;
+&lt;p&gt;I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;markdown-markup-language-format-your-text&#34;&gt;Markdown Markup Language: Format Your Text&lt;/h2&gt;
+&lt;p&gt;Markdown is a markup language for creating formatted text using a plain-text editor. Its key design goal is readability: the language is readable as-is, without an abundance of tags or formatting instructions. This is in contrast to HTML, for example, which has obvious tags and formatting instructions that make it harder to read for humans.&lt;/p&gt;
+&lt;p&gt;Markdown is used extensively by programmers in the software engineering industry. However, it’s also widely used in:&lt;/p&gt;
+&lt;p&gt;blogging and CMS software (like WordPress), instant messaging and chat (like Discord, Reddit), online forums, collaborative software, (software) documentation, readme files (GitHub repositories) So it definitely pays to recognize and understand the syntax, which, luckily, is simple! Anyone can learn it.&lt;/p&gt;
+&lt;h2 id=&#34;learn-markdown-syntax&#34;&gt;Learn Markdown syntax&lt;/h2&gt;
+&lt;p&gt;If you’re new to Markdown, I suggest you start with my Markdown cheat sheet, which is actually more than just a cheat sheet. It contains explanations and links to further resources you might need.&lt;/p&gt;
+&lt;p&gt;Next, you may want to learn how to create a table. Although that’s covered in our cheat sheet as well, there are quite some details to it for tables to deserve their own article.&lt;/p&gt;
+&lt;p&gt;Next up: how to center things in Markdown. This is a question that I get from a lot of readers, so I’ve created an extensive article in which you learn how to center images, headers, text, and tables in Markdown.&lt;/p&gt;
+&lt;p&gt;If you’re writing technical documentation, you probably want to use Markdown code blocks. Most parsers support code blocks and even offer the option to highlight syntax.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;John Gruber and Aaron Swartz created the markup language in 2004, with the goal of creating something that is readable and appealing to human readers in its source code form. The result: it generally improves the readability of your plain text instead of worsening it. With the added benefit that we can also convert Markdown to other formats, like HTML, PDF, or RTF, thanks to the used conventions.&lt;/p&gt;
+&lt;p&gt;The main inspiration for its syntax was the existing convention for marking up plain text in e-mail, although it also draws from earlier markup languages like reStructuredText.&lt;/p&gt;
+&lt;h2 id=&#34;markdown-file-extension&#34;&gt;Markdown file extension&lt;/h2&gt;
+&lt;p&gt;Markdown files have the extension .md. A file name you will encounter a lot is the README.md file in code repositories like those on GitHub. If you’re wondering what this file is, and want to know how to create one yourself, read all about it on our page about README.md files.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Git</title>
