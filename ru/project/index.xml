@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://example.com/ru/project/</link>
+      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Individual project personal site of a researcher</title>
+      <link>https://example.com/ru/project/individual-project-personal-site-of-a-researcher-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/individual-project-personal-site-of-a-researcher-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h4 id=&#34;i-will-start-by-saying-that-i-did-this-project-as-part-of-the-curriculum-for-the-operating-systems-discipline-for-each-stage-a-week-was-allocated-during-which-it-was-necessary-to-create-posts-add-information-about-myself-as-well-as-write-small-scientific-articles-on-selected-topics&#34;&gt;I will start by saying that I did this project as part of the curriculum for the operating systems discipline. For each stage a week was allocated, during which it was necessary to create posts, add information about myself, as well as write small scientific articles on selected topics.&lt;/h4&gt;
+&lt;p&gt;Here are detailed items for doing this project, all the details and links to specific registration sites, as well as research paper topics to create:&lt;/p&gt;
+&lt;h2 id=&#34;posting-on-github-pages-a-blueprint-for-a-personal-site&#34;&gt;Posting on Github pages a blueprint for a personal site.&lt;/h2&gt;
+&lt;p&gt;Install the necessary software.&lt;/p&gt;
+&lt;p&gt;Download the website theme template.&lt;/p&gt;
+&lt;p&gt;Place it on the hosting git.&lt;/p&gt;
+&lt;p&gt;Set a parameter for the URLs of the site.&lt;/p&gt;
+&lt;p&gt;Place a blueprint of the site on Github pages.&lt;/p&gt;
+&lt;h2 id=&#34;add-data-about-yourself-to-the-site&#34;&gt;Add data about yourself to the site.&lt;/h2&gt;
+&lt;p&gt;List of data to be added.&lt;/p&gt;
+&lt;p&gt;Place a photo of the site owner.&lt;/p&gt;
+&lt;p&gt;Post a short description of the site owner (Biography).&lt;/p&gt;
+&lt;h2 id=&#34;add-interests&#34;&gt;Add Interests.&lt;/h2&gt;
+&lt;h2 id=&#34;add-education-information&#34;&gt;Add Education Information.&lt;/h2&gt;
+&lt;p&gt;Make a post on last week’s topic.&lt;/p&gt;
+&lt;p&gt;Add a post on a topic of your choice:&lt;/p&gt;
+&lt;p&gt;Version Control. Git.&lt;/p&gt;
+&lt;p&gt;Continuous Integration and Continuous Deployment (CI/CD).&lt;/p&gt;
+&lt;p&gt;Add an accomplishments to the site.&lt;/p&gt;
+&lt;h2 id=&#34;list-of-achievements&#34;&gt;List of Achievements.&lt;/h2&gt;
+&lt;p&gt;Add Skills information.&lt;/p&gt;
+&lt;p&gt;Add Experience information.&lt;/p&gt;
+&lt;p&gt;Add Accomplishments.&lt;/p&gt;
+&lt;p&gt;Make a post on the past week.&lt;/p&gt;
+&lt;p&gt;Add a post on a topic of your choice:&lt;/p&gt;
+&lt;p&gt;Lightweight markup languages.&lt;/p&gt;
+&lt;p&gt;Markup languages. LaTeX.&lt;/p&gt;
+&lt;p&gt;Markdown markup language.&lt;/p&gt;
+&lt;p&gt;Add links to scholarly and bibliometric resources to the site.&lt;/p&gt;
+&lt;h2 id=&#34;register-with-relevant-resources-and-post-links-to-them-on-the-site&#34;&gt;Register with relevant resources and post links to them on the site:&lt;/h2&gt;
+&lt;p&gt;eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ORCID : &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mendeley : &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ResearchGate : &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;arXiv : &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Make a post on the past week.&lt;/p&gt;
+&lt;p&gt;Add a post on a topic of choice:&lt;/p&gt;
+&lt;p&gt;Report formatting.&lt;/p&gt;
+&lt;p&gt;Creating presentations.&lt;/p&gt;
+&lt;p&gt;Work with bibliography.&lt;/p&gt;
+&lt;p&gt;Add all other elements to the site.&lt;/p&gt;
+&lt;h2 id=&#34;make-a-post-for-personal-projects&#34;&gt;Make a post for personal projects.&lt;/h2&gt;
+&lt;p&gt;Make a post on the past week.&lt;/p&gt;
+&lt;p&gt;Add a post on a topic of choice.&lt;/p&gt;
+&lt;p&gt;Scientific programming languages.&lt;/p&gt;
+&lt;p&gt;Post a bilingual site on Github.&lt;/p&gt;
+&lt;h2 id=&#34;make-support-for-english-and-russian-languages&#34;&gt;Make support for English and Russian languages.&lt;/h2&gt;
+&lt;p&gt;Post site elements in both languages.&lt;/p&gt;
+&lt;p&gt;Post content in both languages.&lt;/p&gt;
+&lt;p&gt;Make a post on the past week.&lt;/p&gt;
+&lt;p&gt;Add a post on a topic of choice (in two languages).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,39 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>Last_week 15.05-19.05</title>
+      <link>https://example.com/post/15-21%D1%8E05/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/15-21%D1%8E05/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;my-last-week&#34;&gt;My last week&lt;/h2&gt;
+&lt;p&gt;I had a wonderful time last week doing lots of tasks and work. This included lab work, programming, and creating reports, presentations, and papers. In addition, I was able to relax this weekend outside in the nice weather.
+My review of the week&lt;/p&gt;
+&lt;p&gt;I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last_week 08.05-15.05</title>
+      <link>https://example.com/post/last-week-4/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last-week-4/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;my-last-week&#34;&gt;My last week&lt;/h2&gt;
+&lt;p&gt;The week was great, because it was Victory Day, the celebration of the victory of the Red Army and the Soviet people over Nazi Germany in the Great Patriotic War of 1941-1945. I spent that time with my family in St. Petersburg and saw the majestic parade and the fantastic fireworks display. Also, I did not forget about my studies, including laboratory work, tests and papers in various disciplines, and attached all my work to TUIS on time.&lt;/p&gt;
+&lt;p&gt;I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Scientific programming languages</title>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal site | Academic</title>
+    <link>https://example.com/ru/</link>
+      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personal site</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Personal site</title>
+      <link>https://example.com/ru/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/ru/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last_week 15.05-19.05</title>
+      <link>https://example.com/ru/post/15-21%D1%8E05/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/15-21%D1%8E05/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;my-last-week&#34;&gt;My last week&lt;/h2&gt;
+&lt;p&gt;I had a wonderful time last week doing lots of tasks and work. This included lab work, programming, and creating reports, presentations, and papers. In addition, I was able to relax this weekend outside in the nice weather.
+My review of the week&lt;/p&gt;
+&lt;p&gt;I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Methods of protection from attack type buffer overflow</title>
+      <link>https://example.com/ru/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B8/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B8/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;buffer-overflow&#34;&gt;Buffer overflow&lt;/h2&gt;
+&lt;p&gt;At its core, a buffer overflow is a surprisingly simple error that occurs as a result of normal practice. Computer programs often work with chunks of data that are read from a file, from the network, or even from the keyboard. Programs allocate blocks of memory of finite size - buffers - to hold this data as they work on it. A buffer overflow occurs when more data is written to or read from the buffer than it can hold.&lt;/p&gt;
+&lt;h2 id=&#34;techniques-to-protect-against-buffer-overflow-attacks-aslr&#34;&gt;Techniques to protect against buffer overflow attacks: ASLR&lt;/h2&gt;
+&lt;p&gt;Linux has some built-in mechanisms to prevent potentially malicious code execution in case of buffer overflow in a program. ASLR - Address Space Location Randomization - This randomizes the memory addresses used by a program each time it is run, this becomes an obstacle to an attacker because it prevents them from easily making a working exploit. For example, if the return address to which you want to redirect your program changes every time, it cannot be hard-coded into an exploit. This is a feature of the OS itself. To disable ASLR: This must be run again after a reboot, unless it is included in the startup script that is automatically run every time you boot up.&lt;/p&gt;
+&lt;h2 id=&#34;methods-to-protect-against-buffer-overflow-attack-dep&#34;&gt;Methods to protect against buffer overflow attack: DEP&lt;/h2&gt;
+&lt;p&gt;DEP is data execution prevention. It marks some vulnerable parts in memory as non-executable. This is a feature of the compiler. Some directives can be used at compile time to disable such protections because they are enabled by default in gcc. The -fno-stack-protector parameter disables the stack part (canaries) and the -z execstack parameter makes both heap and stack executable.&lt;/p&gt;
+&lt;h2 id=&#34;methods-to-protect-against-buffer-overflow-attacks-tools-during-development&#34;&gt;Methods to protect against buffer overflow attacks: tools during development&lt;/h2&gt;
+&lt;p&gt;During development, there are tools that can analyze source code and running programs to try to detect dangerous constructs or overflow errors before those errors make their way into the finished software. For example, AddressSantizer (which is an open-source programming tool that detects memory corruption bugs such as buffer overflows or access to a dangling pointer), and older tools such as Valgrind (which is a software tool for debugging memory, memory leak detection, and profiling) offer such capabilities. However, these tools require the active participation of the developer.&lt;/p&gt;
+&lt;p&gt;##Methods to protect against buffer overflow attacks: some systems&lt;/p&gt;
+&lt;p&gt;Perhaps the most important is the protection known under different names W^X (“write exclusive-or execute”), DEP (“data execution prevention”), NX (“No Xecute”), XD (“eXecute Disable”), EVP (“Enhanced Virus Protection”, a rather unusual term sometimes used by AMD), XN (“eXecute Never”) and probably others. The principle here is simple. These systems tend to make memory either writable (buffer-worthy) or executable (library and program code-worthy), but not both. Thus, even if an attacker can overflow a buffer and control the return address, the processor will eventually refuse to execute the shellcode.&lt;/p&gt;
+&lt;h2 id=&#34;methods-to-protect-against-buffer-overflow-attacks-the-non-executable-stack&#34;&gt;Methods to protect against buffer overflow attacks: the non-executable stack&lt;/h2&gt;
+&lt;p&gt;An unexecutable stack prevents executing code in the stack (or dynamic memory) memory region and writing executable code, which can in some cases prevent the exploitation of a buffer overflow. Thus, it is impossible to exploit a buffer overflow by injecting executable code into the stack if a non-executable stack is used.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last_week 08.05-15.05</title>
+      <link>https://example.com/ru/post/last-week-4/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/last-week-4/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;my-last-week&#34;&gt;My last week&lt;/h2&gt;
+&lt;p&gt;The week was great, because it was Victory Day, the celebration of the victory of the Red Army and the Soviet people over Nazi Germany in the Great Patriotic War of 1941-1945. I spent that time with my family in St. Petersburg and saw the majestic parade and the fantastic fireworks display. Also, I did not forget about my studies, including laboratory work, tests and papers in various disciplines, and attached all my work to TUIS on time.&lt;/p&gt;
+&lt;p&gt;I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individual project personal site of a researcher</title>
+      <link>https://example.com/ru/project/individual-project-personal-site-of-a-researcher-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/individual-project-personal-site-of-a-researcher-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h4 id=&#34;i-will-start-by-saying-that-i-did-this-project-as-part-of-the-curriculum-for-the-operating-systems-discipline-for-each-stage-a-week-was-allocated-during-which-it-was-necessary-to-create-posts-add-information-about-myself-as-well-as-write-small-scientific-articles-on-selected-topics&#34;&gt;I will start by saying that I did this project as part of the curriculum for the operating systems discipline. For each stage a week was allocated, during which it was necessary to create posts, add information about myself, as well as write small scientific articles on selected topics.&lt;/h4&gt;
+&lt;p&gt;Here are detailed items for doing this project, all the details and links to specific registration sites, as well as research paper topics to create:&lt;/p&gt;
+&lt;h2 id=&#34;posting-on-github-pages-a-blueprint-for-a-personal-site&#34;&gt;Posting on Github pages a blueprint for a personal site.&lt;/h2&gt;
+&lt;p&gt;Install the necessary software.&lt;/p&gt;
+&lt;p&gt;Download the website theme template.&lt;/p&gt;
+&lt;p&gt;Place it on the hosting git.&lt;/p&gt;
+&lt;p&gt;Set a parameter for the URLs of the site.&lt;/p&gt;
+&lt;p&gt;Place a blueprint of the site on Github pages.&lt;/p&gt;
+&lt;h2 id=&#34;add-data-about-yourself-to-the-site&#34;&gt;Add data about yourself to the site.&lt;/h2&gt;
+&lt;p&gt;List of data to be added.&lt;/p&gt;
+&lt;p&gt;Place a photo of the site owner.&lt;/p&gt;
+&lt;p&gt;Post a short description of the site owner (Biography).&lt;/p&gt;
+&lt;h2 id=&#34;add-interests&#34;&gt;Add Interests.&lt;/h2&gt;
+&lt;h2 id=&#34;add-education-information&#34;&gt;Add Education Information.&lt;/h2&gt;
+&lt;p&gt;Make a post on last week’s topic.&lt;/p&gt;
+&lt;p&gt;Add a post on a topic of your choice:&lt;/p&gt;
+&lt;p&gt;Version Control. Git.&lt;/p&gt;
+&lt;p&gt;Continuous Integration and Continuous Deployment (CI/CD).&lt;/p&gt;
+&lt;p&gt;Add an accomplishments to the site.&lt;/p&gt;
+&lt;h2 id=&#34;list-of-achievements&#34;&gt;List of Achievements.&lt;/h2&gt;
+&lt;p&gt;Add Skills information.&lt;/p&gt;
+&lt;p&gt;Add Experience information.&lt;/p&gt;
+&lt;p&gt;Add Accomplishments.&lt;/p&gt;
+&lt;p&gt;Make a post on the past week.&lt;/p&gt;
+&lt;p&gt;Add a post on a topic of your choice:&lt;/p&gt;
+&lt;p&gt;Lightweight markup languages.&lt;/p&gt;
+&lt;p&gt;Markup languages. LaTeX.&lt;/p&gt;
+&lt;p&gt;Markdown markup language.&lt;/p&gt;
+&lt;p&gt;Add links to scholarly and bibliometric resources to the site.&lt;/p&gt;
+&lt;h2 id=&#34;register-with-relevant-resources-and-post-links-to-them-on-the-site&#34;&gt;Register with relevant resources and post links to them on the site:&lt;/h2&gt;
+&lt;p&gt;eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ORCID : &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mendeley : &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ResearchGate : &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;arXiv : &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Make a post on the past week.&lt;/p&gt;
+&lt;p&gt;Add a post on a topic of choice:&lt;/p&gt;
+&lt;p&gt;Report formatting.&lt;/p&gt;
+&lt;p&gt;Creating presentations.&lt;/p&gt;
+&lt;p&gt;Work with bibliography.&lt;/p&gt;
+&lt;p&gt;Add all other elements to the site.&lt;/p&gt;
+&lt;h2 id=&#34;make-a-post-for-personal-projects&#34;&gt;Make a post for personal projects.&lt;/h2&gt;
+&lt;p&gt;Make a post on the past week.&lt;/p&gt;
+&lt;p&gt;Add a post on a topic of choice.&lt;/p&gt;
+&lt;p&gt;Scientific programming languages.&lt;/p&gt;
+&lt;p&gt;Post a bilingual site on Github.&lt;/p&gt;
+&lt;h2 id=&#34;make-support-for-english-and-russian-languages&#34;&gt;Make support for English and Russian languages.&lt;/h2&gt;
+&lt;p&gt;Post site elements in both languages.&lt;/p&gt;
+&lt;p&gt;Post content in both languages.&lt;/p&gt;
+&lt;p&gt;Make a post on the past week.&lt;/p&gt;
+&lt;p&gt;Add a post on a topic of choice (in two languages).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/ru/post/scientific-programming/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/scientific-programming/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;top-programming-languages-for-data-science-in-2020&#34;&gt;Top Programming Languages for Data Science in 2020&lt;/h2&gt;
+&lt;p&gt;Which programming language should you pick up to start your data science journey?&lt;/p&gt;
+&lt;p&gt;“The only way to learn a new programming language is by writing programs in it.” — Dennis Ritchie&lt;/p&gt;
+&lt;p&gt;A programming language is the superpower of any developer. Every once in a while, a new programming language or an update to an existing language pops up that tries to deliver faster and more optimized results. Developers can often find themselves entangled with a wide variety of programming languages, deciding which one to choose for their next project.&lt;/p&gt;
+&lt;p&gt;All programming languages are not similar and in many instances, what works for one project or a requirement might not work for another. Data Science is one such trending domains where the demand for efficiency and high-performance results are skyrocketing. This article will cover a handful of those top-tier programming languages.&lt;/p&gt;
+&lt;h2 id=&#34;what-you-need-to-consider-when-choosing-the-best-programming-language-for-your-data-science-career-path&#34;&gt;What You Need to Consider When Choosing the Best Programming Language for Your Data Science Career Path&lt;/h2&gt;
+&lt;p&gt;Now before we jump to the section covering some of the top programming languages for Data Science, mentioned below are a few of the questions that you should ask yourself:&lt;/p&gt;
+&lt;p&gt;● What exactly is the task at hand?&lt;/p&gt;
+&lt;p&gt;● In what way can Data Science help you with it?&lt;/p&gt;
+&lt;p&gt;● How skilled are you in the programming languages that you already know?&lt;/p&gt;
+&lt;p&gt;● Are you prepared to take your knowledge to the next level?&lt;/p&gt;
+&lt;p&gt;● At what scale does your organization use Data Science?&lt;/p&gt;
+&lt;p&gt;● Are you interested in learning advanced Data Science?&lt;/p&gt;
+&lt;h3 id=&#34;top-programming-languages-for-data-science-in-2020-1&#34;&gt;Top Programming Languages for Data Science in 2020&lt;/h3&gt;
+&lt;p&gt;Now that you have answered the questions above, let’s move on to the next section. From here on, we would like to draw your attention to some of the most used programming languages for Data Science. You might already be familiar with a few of the popular programming languages, while some may be completely new for you.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Python
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Python holds a vital place among the top tools for Data Science and is often the go-to choice for a range of tasks for domains such as Machine Learning, Deep Learning, Artificial Intelligence, and more. It is object-oriented, easy to use and extremely developer-friendly thanks to its high code readability.&lt;/p&gt;
+&lt;p&gt;Python’s vast ecosystem of rich libraries and implementation for various purposes makes it a genuinely multi-faceted option. Some other key standout features offered by Python include:&lt;/p&gt;
+&lt;p&gt;● Support for powerful Data Science libraries such as Keras, Scikit-Learn, matplotlib, TensorFlow and more&lt;/p&gt;
+&lt;p&gt;● Perfectly suited for tasks like data collection, analysis, modeling, and visualization&lt;/p&gt;
+&lt;p&gt;● Supports numerous file export and sharing options&lt;/p&gt;
+&lt;p&gt;● Comes with a strong community for getting support&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;JavaScript
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The multi-paradigm and event-driven scripting language JavaScript is among the top programming languages for web development. With JavaScript, developers can create rich and interactive web-pages, and it is this property of JavaScript that makes it an amazing choice for creating beautiful visualizations.&lt;/p&gt;
+&lt;p&gt;Other uses of JavaScript for Data Science include managing asynchronous tasks and handling of real-time data. A handful of compelling reasons in favor of JavaScript are:&lt;/p&gt;
+&lt;p&gt;● Allows to create visualizations for data analysis&lt;/p&gt;
+&lt;p&gt;● Supports various modern-day Machine Learning libraries like TensorFlow.js, Keras.js, and ConvNetJs, to name a few&lt;/p&gt;
+&lt;p&gt;● Is easier to learn and use&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Java
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The programming language Java might look old, but don’t let that fool you. It has been long used by some of the top businesses for secure enterprise development as their preferred development stack of choice. To cater to the boom in the Data Science space, Java has offered tools such as Hadoop, Spark, Hive, Scala, and Fink.&lt;/p&gt;
+&lt;p&gt;Java Virtual Machines are a popular choice for developers to write code for distributed systems, data analysis, and machine learning in an enterprise environment. Other key benefits offered by Java include:&lt;/p&gt;
+&lt;p&gt;● Offers several IDEs for rapid application development&lt;/p&gt;
+&lt;p&gt;● Is used for tasks involving data analysis, Deep Learning, Natural Language Processing, data mining and much more&lt;/p&gt;
+&lt;p&gt;● Enables effortless scaling to build complex applications from scratch&lt;/p&gt;
+&lt;p&gt;● Able to deliver results faster&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;R
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;R is an open-source software environment primarily for handling the statistical and graphics side of things in Data Science. Time series analysis, clustering, statistical tests, linear and non-linear modeling are just some of the many statistical computing and analysis options provided by R.&lt;/p&gt;
+&lt;p&gt;Third-party interfaces like RStudio and Jupyter make it easier to work with R. R provides excellent extensibility, often allowing other programming languages to modify data objects in R without much hassle, thanks to its strong object-oriented nature. The key takeaways from the programming language R are:&lt;/p&gt;
+&lt;p&gt;● Offers efficient handling of data and additional data analysis tools&lt;/p&gt;
+&lt;p&gt;● Provides a great many options for creating excellent plots for data analysis&lt;/p&gt;
+&lt;p&gt;● Allows extending the core functionality with robust community-built packages&lt;/p&gt;
+&lt;p&gt;● Includes an active community of contributors&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;C/C++
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;C is one of the earliest programming languages, and most newer languages use C/C++ as their codebase, one such example would be R. Working with C/C++ requires a strong understanding of the fundamentals of programming.&lt;/p&gt;
+&lt;p&gt;Even though C/C++ is among the more complicated side of programming languages for Data Science beginners due to its low-level nature, it is increasingly being used to build tools that you can use for Data Science.&lt;/p&gt;
+&lt;p&gt;Take TensorFlow, for example, its core is written in C++, while the rest of it is in Python. But that’s not all, C does have a couple of strong points, mentioned below:&lt;/p&gt;
+&lt;p&gt;● Ability to deliver faster and better-optimized results when the underlying algorithms are also written in C&lt;/p&gt;
+&lt;p&gt;● Comparatively faster than other programming languages due to its efficient nature&lt;/p&gt;
+&lt;p&gt;Google Trends — C/C++ Interest Over Time&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Throughout the article, we covered some of the top programming languages for Data Science. Each of these languages come with their benefits, often offering better and faster results when compared with others. The domain of Data Science is exceedingly vast and can often demand a different set of tools for various tasks.&lt;/p&gt;
+&lt;p&gt;Equipping yourself with more than one programming language can guarantee to help you overcome unique challenges while dealing with the data. If you are a budding Data Scientist, you should start with the programming languages mentioned above as they are the most in-demand languages right now.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last_week 08.05-15.05</title>
+      <link>https://example.com/ru/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-4/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;my-last-week&#34;&gt;My last week&lt;/h2&gt;
+&lt;p&gt;The week was great, because it was Victory Day, the celebration of the victory of the Red Army and the Soviet people over Nazi Germany in the Great Patriotic War of 1941-1945. I spent that time with my family in St. Petersburg and saw the majestic parade and the fantastic fireworks display. Also, I did not forget about my studies, including laboratory work, tests and papers in various disciplines, and attached all my work to TUIS on time.&lt;/p&gt;
+&lt;p&gt;I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last_week 17.04-23.04</title>
+      <link>https://example.com/ru/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;my-last-week&#34;&gt;My last week&lt;/h2&gt;
+&lt;p&gt;I had a wonderful time last week doing lots of tasks and work. This included lab work, programming, and creating reports, presentations, and papers. In addition, I was able to relax this weekend outside in the nice weather.&lt;/p&gt;
+&lt;p&gt;I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working with bibliographies</title>
+      <link>https://example.com/ru/post/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;working_with_bibliographies&#34;&gt;Working_with_bibliographies&lt;/h2&gt;
+&lt;p&gt;When starting to search for information in bibliographic editions, one should know the basic rules of working with them. It is necessary to take into account that along with some universal principles of material organization in such publications there are also specific features of each of them.&lt;/p&gt;
+&lt;p&gt;All bibliographic editions have a reference device:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;content (reflects the sections by which the material is grouped)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;auxiliary indexes (occur in various combinations depending on the edition).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The table of contents is used to work with the sections of the index. In this case, all the material included in a given section is looked through, and only the literature that is relevant to the issue under study is written out. Such a search is recommended when the researcher cares not only about specific works on the topic, but also about general literature, and when the researcher fears missing important information.&lt;/p&gt;
+&lt;p&gt;However, the most specific search, which avoids looking through redundant information, is considered to be the search with the help of auxiliary indexes. The main auxiliary indexes are: name, author, subject, geographical, title index, etc.&lt;/p&gt;
+&lt;p&gt;The author index contains the names of the authors of the works reflected in a given issue of the index or abstract journal. By contrast, the name index includes not only the names of authors, but also the names of translators, editors and personalities. The geographical index makes it easier to find information about materials in the country, regional, and local history aspects. The index of titles includes the titles of works reflected in the bibliography. As a rule, subject (subject-thematic) auxiliary indexes have a more complex structure. They consist of headings (main concepts) and subheadings (supplementing or clarifying the main concepts).&lt;/p&gt;
+&lt;p&gt;Auxiliary indexes are organized in alphabetical order; opposite each item there is a reference to the serial number of the bibliographic record in the index. Of course, searching using bibliographic aids is professional information retrieval. It requires some training and practice. Not all topics require such an extended literature search. Work with dictionaries, reference books, and encyclopedias is sufficient to disclose some topics. A number of other topics can be disclosed with the help of information found in the alphabetical and systematic catalogs of the nearest library (district, city, university). But there are topics and questions for which there is very little information, and one has to collect it using all search options. The broader the topic is formulated, the easier it is to find literature on it. Accordingly, the narrower the topic, the more difficult it will be to select the necessary literature.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last_week 27.03-02.04</title>
+      <link>https://example.com/ru/post/2-week/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/2-week/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;my-last-week&#34;&gt;My last week&lt;/h2&gt;
+&lt;p&gt;I had a wonderful time last week doing lots of tasks and work. This included lab work, programming, and creating reports, presentations, and papers. In addition, I was able to relax this weekend outside in the nice weather.&lt;/p&gt;
+&lt;p&gt;I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;markdown-markup-language-format-your-text&#34;&gt;Markdown Markup Language: Format Your Text&lt;/h2&gt;
+&lt;p&gt;Markdown is a markup language for creating formatted text using a plain-text editor. Its key design goal is readability: the language is readable as-is, without an abundance of tags or formatting instructions. This is in contrast to HTML, for example, which has obvious tags and formatting instructions that make it harder to read for humans.&lt;/p&gt;
+&lt;p&gt;Markdown is used extensively by programmers in the software engineering industry. However, it’s also widely used in:&lt;/p&gt;
+&lt;p&gt;blogging and CMS software (like WordPress), instant messaging and chat (like Discord, Reddit), online forums, collaborative software, (software) documentation, readme files (GitHub repositories) So it definitely pays to recognize and understand the syntax, which, luckily, is simple! Anyone can learn it.&lt;/p&gt;
+&lt;h2 id=&#34;learn-markdown-syntax&#34;&gt;Learn Markdown syntax&lt;/h2&gt;
+&lt;p&gt;If you’re new to Markdown, I suggest you start with my Markdown cheat sheet, which is actually more than just a cheat sheet. It contains explanations and links to further resources you might need.&lt;/p&gt;
+&lt;p&gt;Next, you may want to learn how to create a table. Although that’s covered in our cheat sheet as well, there are quite some details to it for tables to deserve their own article.&lt;/p&gt;
+&lt;p&gt;Next up: how to center things in Markdown. This is a question that I get from a lot of readers, so I’ve created an extensive article in which you learn how to center images, headers, text, and tables in Markdown.&lt;/p&gt;
+&lt;p&gt;If you’re writing technical documentation, you probably want to use Markdown code blocks. Most parsers support code blocks and even offer the option to highlight syntax.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;John Gruber and Aaron Swartz created the markup language in 2004, with the goal of creating something that is readable and appealing to human readers in its source code form. The result: it generally improves the readability of your plain text instead of worsening it. With the added benefit that we can also convert Markdown to other formats, like HTML, PDF, or RTF, thanks to the used conventions.&lt;/p&gt;
+&lt;p&gt;The main inspiration for its syntax was the existing convention for marking up plain text in e-mail, although it also draws from earlier markup languages like reStructuredText.&lt;/p&gt;
+&lt;h2 id=&#34;markdown-file-extension&#34;&gt;Markdown file extension&lt;/h2&gt;
+&lt;p&gt;Markdown files have the extension .md. A file name you will encounter a lot is the README.md file in code repositories like those on GitHub. If you’re wondering what this file is, and want to know how to create one yourself, read all about it on our page about README.md files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://example.com/ru/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This chapter will be about getting started with Git. We will begin by explaining some background on version control tools, then move on to how to get Git running on your system and finally how to get it set up to start working with. At the end of this chapter you should understand why Git is around, why you should use it and you should be all set up to do so.&lt;/p&gt;
+&lt;h2 id=&#34;about-version-control&#34;&gt;About Version Control&lt;/h2&gt;
+&lt;p&gt;What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.&lt;/p&gt;
+&lt;p&gt;If you are a graphic or web designer and want to keep every version of an image or layout (which you would most certainly want to), a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a VCS also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.&lt;/p&gt;
+&lt;h2 id=&#34;local-version-control-systems&#34;&gt;Local Version Control Systems&lt;/h2&gt;
+&lt;p&gt;Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.&lt;/p&gt;
+&lt;p&gt;To deal with this issue, programmers long ago developed local VCSs that had a simple database that kept all the changes to files under revision control.&lt;/p&gt;
+&lt;p&gt;One of the most popular VCS tools was a system called RCS, which is still distributed with many computers today. RCS works by keeping patch sets (that is, the differences between files) in a special format on disk; it can then re-create what any file looked like at any point in time by adding up all the patches.&lt;/p&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized Version Control Systems&lt;/h2&gt;
+&lt;p&gt;The next major issue that people encounter is that they need to collaborate with developers on other systems. To deal with this problem, Centralized Version Control Systems (CVCSs) were developed. These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, and a number of clients that check out files from that central place. For many years, this has been the standard for version control.&lt;/p&gt;
+&lt;p&gt;This setup offers many advantages, especially over local VCSs. For example, everyone knows to a certain degree what everyone else on the project is doing. Administrators have fine-grained control over who can do what, and it’s far easier to administer a CVCS than it is to deal with local databases on every client.&lt;/p&gt;
+&lt;p&gt;However, this setup also has some serious downsides. The most obvious is the single point of failure that the centralized server represents. If that server goes down for an hour, then during that hour nobody can collaborate at all or save versioned changes to anything they’re working on. If the hard disk the central database is on becomes corrupted, and proper backups haven’t been kept, you lose absolutely everything — the entire history of the project except whatever single snapshots people happen to have on their local machines. Local VCSs suffer from this same problem — whenever you have the entire history of the project in a single place, you risk losing everything.&lt;/p&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed Version Control Systems&lt;/h2&gt;
+&lt;p&gt;This is where Distributed Version Control Systems (DVCSs) step in. In a DVCS (such as Git, Mercurial, Bazaar or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. Every clone is really a full backup of all the data.&lt;/p&gt;
+&lt;p&gt;Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, so you can collaborate with different groups of people in different ways simultaneously within the same project. This allows you to set up several types of workflows that aren’t possible in centralized systems, such as hierarchical models.&lt;/p&gt;
+&lt;h2 id=&#34;a-short-history-of-git&#34;&gt;A Short History of Git&lt;/h2&gt;
+&lt;p&gt;As with many great things in life, Git began with a bit of creative destruction and fiery controversy.&lt;/p&gt;
+&lt;p&gt;The Linux kernel is an open source software project of fairly large scope. During the early years of the Linux kernel maintenance (1991–2002), changes to the software were passed around as patches and archived files. In 2002, the Linux kernel project began using a proprietary DVCS called BitKeeper.&lt;/p&gt;
+&lt;p&gt;In 2005, the relationship between the community that developed the Linux kernel and the commercial company that developed BitKeeper broke down, and the tool’s free-of-charge status was revoked. This prompted the Linux development community (and in particular Linus Torvalds, the creator of Linux) to develop their own tool based on some of the lessons they learned while using BitKeeper.&lt;/p&gt;
+&lt;p&gt;Since its birth in 2005, Git has evolved and matured to be easy to use and yet retain these initial qualities. It’s amazingly fast, it’s very efficient with large projects, and it has an incredible branching system for non-linear development (See Git Branching).&lt;/p&gt;
+&lt;h2 id=&#34;what-is-git&#34;&gt;What is Git?&lt;/h2&gt;
+&lt;p&gt;So, what is Git in a nutshell? This is an important section to absorb, because if you understand what Git is and the fundamentals of how it works, then using Git effectively will probably be much easier for you. As you learn Git, try to clear your mind of the things you may know about other VCSs, such as CVS, Subversion or Perforce — doing so will help you avoid subtle confusion when using the tool. Even though Git’s user interface is fairly similar to these other VCSs, Git stores and thinks about information in a very different way, and understanding these differences will help you avoid becoming confused while using it.&lt;/p&gt;
+&lt;h2 id=&#34;the-command-line&#34;&gt;The Command Line&lt;/h2&gt;
+&lt;p&gt;There are a lot of different ways to use Git. There are the original command-line tools, and there are many graphical user interfaces of varying capabilities. For this book, we will be using Git on the command line. For one, the command line is the only place you can run all Git commands — most of the GUIs implement only a partial subset of Git functionality for simplicity. If you know how to run the command-line version, you can probably also figure out how to run the GUI version, while the opposite is not necessarily true. Also, while your choice of graphical client is a matter of personal taste, all users will have the command-line tools installed and available.&lt;/p&gt;
+&lt;p&gt;So we will expect you to know how to open Terminal in macOS or Command Prompt or PowerShell in Windows. If you don’t know what we’re talking about here, you may need to stop and research that quickly so that you can follow the rest of the examples and descriptions in this book.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;You should have a basic understanding of what Git is and how it’s different from any centralized version control systems you may have been using previously. You should also now have a working version of Git on your system that’s set up with your personal identity. It’s now time to learn some Git basics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прошлая неделя 06.03-13.03</title>
+      <link>https://example.com/ru/post/first-post/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/first-post/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;my-last-week&#34;&gt;My last week&lt;/h2&gt;
+&lt;p&gt;Я рада, что вы решили прочитать мой первый пост. Начну с того, что каждый имеет в виду разные вещи под «продуктивным». Я расскажу вам, как я провел прошлую неделю. Началось, конечно, с лекций и семинаров, и я просматривала файлы и презентации по разным курсам.&lt;/p&gt;
+&lt;p&gt;За первые несколько дней обучения я сделала 2 лабораторные работы, которые нужно было сдать в конце недели. Благодаря тому, что я все сделала в начале недели, в ночь с четверга на пятницу, я смогла сходить с друзьями и поздравить свою подругу с девятнадцатилетием. При том, что в пятницу мне нужно было вставать в 7 и идти в университет к первой паре на контрольную по математике. На следующий день, в субботу, с той же компанией мы отправились на праздничный завтрак в красивый ресторан, где отмечали день рождения Лизы, но что было вечером, рассказывать не будем. :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/ru/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/ru/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/ru/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/ru/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/ru/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
